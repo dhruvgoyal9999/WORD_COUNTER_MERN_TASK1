@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WORD_COUNTER_MERN_TASK1/static/css/main.7e660c2e.css",
+    "main.js": "/WORD_COUNTER_MERN_TASK1/static/js/main.38f1880e.js",
+    "static/js/787.142da1d4.chunk.js": "/WORD_COUNTER_MERN_TASK1/static/js/787.142da1d4.chunk.js",
+    "index.html": "/WORD_COUNTER_MERN_TASK1/index.html",
+    "main.7e660c2e.css.map": "/WORD_COUNTER_MERN_TASK1/static/css/main.7e660c2e.css.map",
+    "main.38f1880e.js.map": "/WORD_COUNTER_MERN_TASK1/static/js/main.38f1880e.js.map",
+    "787.142da1d4.chunk.js.map": "/WORD_COUNTER_MERN_TASK1/static/js/787.142da1d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e660c2e.css",
+    "static/js/main.38f1880e.js"
+  ]
+}
